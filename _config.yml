@@ -1,0 +1,28 @@
+name: Verkon tulevaisuus
+favicon: null
+layout_spectrum: 0.64539989316836
+typography_spectrum: 0.3692711943294853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.717192760668695
+  lightness: 0.10284827160649002
+  saturation: 0.4727397901006043
+  rhythmicContrast: 0.27044886676594615
+purpose: []

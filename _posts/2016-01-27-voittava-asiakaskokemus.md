@@ -6,25 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T13:25:20.808Z'
-dateModified: '2016-01-27T13:25:07.692Z'
+datePublished: '2016-01-27T13:31:27.449Z'
+dateModified: '2016-01-27T13:31:21.884Z'
 title: Voittava Asiakaskokemus
 author: []
+sourcePath: _posts/2016-01-27-voittava-asiakaskokemus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-voittava-asiakaskokemus.md
-published: true
 url: voittava-asiakaskokemus/index.html
 _type: Article
 
 ---
 Mitä erinomainen
 asiakaskokemus on sinulle? Kauniita kuvia, puhuttelevaa sisältöä,
-asiantuntija-arvioita, täydellisyyttä lähentelevää käytettävyyttä? Vai
+asiantuntija-arvioita, täydellisyyttä lähentelevää käytettävyyttä? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e0ba24-caa6-4419-b76e-65a4ffad1ac0.jpg)
+
+Vai
 ajatteletko välittömästi responsiivisen verkkopalvelun ja natiiviapplikaation
 keskinäisiä hyötyjä ja haittoja? Asiakaskohtaamisista asiakkaalle jäävää
 mielikuvaa hyvästä palvelusta? Punaisen kehoitetekstin konversioastetta

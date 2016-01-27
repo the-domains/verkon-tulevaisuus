@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T10:41:46.257Z'
-dateModified: '2016-01-27T10:41:35.987Z'
+datePublished: '2016-01-27T11:00:03.878Z'
+dateModified: '2016-01-27T10:58:29.878Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T12:52:51.328Z'
-dateModified: '2016-01-27T12:52:38.126Z'
+datePublished: '2016-01-27T13:41:40.965Z'
+dateModified: '2016-01-27T13:40:35.887Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md

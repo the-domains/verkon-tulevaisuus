@@ -6,26 +6,26 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T08:32:40.765Z'
-dateModified: '2016-01-27T08:31:41.574Z'
+datePublished: '2016-01-27T08:41:24.794Z'
+dateModified: '2016-01-27T08:36:07.690Z'
 title: Muutos ei ole koskaan niin hidasta kuin tänään
 author: []
+sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
-published: true
 url: muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan/index.html
 _type: Article
 
 ---
-Verkkokaupan tulevaisuuden teknologiat. Mikä kuumottava aihe.
+Verkkokaupan tulevaisuuden teknologiat. Mikä kuumottava aihe. Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d994e2-dfeb-413d-a042-6e0e430dbc9f.png)
 
-Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin. Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista.
+> Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista.
 
 Viime vuodet on puhuttu big datasta, koneoppimisesta, reaaliaikaisesta personoinnista, automatisoidusta multivarianttitestauksesta, kaiken verkkoon siirtymisestä, asiakastiedon arvosta, uudesta öljystä ja asiakasanalytiikasta. Yksi kuumimmista puheenaiheista on ollut digitaalisen ja fyysisen asioinnin saumattomasti yhdistävä asiakaskokemus. Samalla esiin on putkahdellut keinoälyyn perustuvia palvelualustoja, kuten The Grid ja yhä älykkäämpiä palveluita ja toistaan huikeampia kuluttajatuotteita - tai ainakin lupauksia niistä.
 

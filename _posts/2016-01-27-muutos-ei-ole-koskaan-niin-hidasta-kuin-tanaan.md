@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T10:16:59.460Z'
-dateModified: '2016-01-27T09:10:26.707Z'
+datePublished: '2016-01-27T10:25:09.245Z'
+dateModified: '2016-01-27T10:24:49.040Z'
 title: Muutos ei ole koskaan niin hidasta kuin tänään
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
@@ -35,6 +35,8 @@ Sain äskettäin lahjaksi Spheron BB-8 -droidin, jonka mainokset ovat kuvanneet 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e614aa3-cc35-43b5-ace0-a75805d7a7f1.png)
 
 Spheron suorituskykyongelma tulee ratkeamaan. Aitoon ja tarkkaan sisätilapaikannukseen tarvittavan älyn koko, virrankulutus ja hinta tulee putoamaan (kalliiden) lelujen saataville lähitulevaisuudessa. Sphero saa myös riittävät anturit, joilla se osaa tunnistaa isäntäväkensä. Pallo kytkeytyy verkkoon ja saa tarvittavan numeronmurskauskapasiteetin pilvestä. Fyysisen liikkumisen vaatima teho on todennäköisesti se isompi ongelma, tosin paikannus ja langaton lataaminen voivat minimoida senkin. Viiden vuoden kuluttua tämä hassu (ja oikeasti nykyiselläänkin huikea) pikku pallo on seitsemänvuotiasta koululaista vastassa ovella yhtä iloisesti kuin koira.
+
+> Tulevaisuuden Sphero tuntee perheen ja mukautuu sen tapoihin - tulevaisuuden kaupassa älykäs asiakasapplikaatio tuntee sekä käyttäjän että tarjoajat ja löytää aidosti käyttäjälähtöisesti houkuttelevia tarjouksia.
 
 Mitä tekemistä tällä sitten on verkkokaupan tulevaisuuden kanssa? Aika paljonkin. Reaaliaikainen analytiikka ja mukautuminen on mahdollista nyt. Se on vielä kallista ja aika kankeaa. Se on kuitenkin Mooren lain piirissä. Samalla nyt näkyvissä oleva voimakas kehitys kohti mikropalvelukeskeisiä arkkitehtuureita tekee vaikean ja kalliin liiketoimintalogiikan ja analytiikan hyödyntämisen mahdolliseksi yhä pienemmissä käyttökohteissa. En ole varma mitkä ovat voittavia teknologioita kymmenen vuoden horisontilla. Siitä olen varma, että palvelut ovat älykkäämpiä kuin nyt - _kaikissa osissa._ Pidän erittäin todennäköisenä, että puhtaasti matematiikkaan perustuvat toimintojen osat - valikoimaoptimointi, logistiikkaoptimointi - oikeastaan kaikki toimenpiteet joiden nykyisissä nimissä on sana "optimointi" - tulevat hoidetuksi joko kokonaan tai nykyistä oleellisesti suuremmalta osalta keinoälyllä. Laskettavissa olevaan tulokseen ei tarvita ihmistä. Samalla arkkitehtuurikehitys mahdollistaa sen, että tämä magia siirtyy uusiin paikkoihin. Tuotevalinnan asiakkaalle kohdentava äly ei enää kohdistukaan verkkokauppaan, vaan siirtyy asiakkaan laitteeseen. Sen lisäksi, että tuhannet verkkokaupat tuntevat asiakkaan, syntyy keinoälykäs asiakas, joka tuntee tuhannet verkkokaupat. Tulevaisuuden Sphero tuntee perheen ja mukautuu sen tapoihin - tulevaisuuden kaupassa älykäs asiakasapplikaatio tuntee sekä käyttäjän että tarjoajat ja löytää aidosti käyttäjälähtöisesti houkuttelevia tarjouksia.
 

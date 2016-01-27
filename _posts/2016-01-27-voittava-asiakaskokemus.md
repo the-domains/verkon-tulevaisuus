@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T13:31:27.449Z'
+datePublished: '2016-01-27T13:31:27.505Z'
 dateModified: '2016-01-27T13:31:21.884Z'
 title: Voittava Asiakaskokemus
 author: []

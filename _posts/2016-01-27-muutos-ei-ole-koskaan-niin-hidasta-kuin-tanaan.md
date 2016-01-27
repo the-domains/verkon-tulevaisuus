@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T10:41:46.132Z'
+datePublished: '2016-01-27T10:41:46.257Z'
 dateModified: '2016-01-27T10:41:35.987Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []

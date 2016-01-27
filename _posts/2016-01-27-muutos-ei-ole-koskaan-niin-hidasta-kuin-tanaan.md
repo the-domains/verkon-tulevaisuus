@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T11:52:05.972Z'
-dateModified: '2016-01-27T11:52:02.192Z'
+datePublished: '2016-01-27T12:13:16.693Z'
+dateModified: '2016-01-27T12:07:00.085Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
@@ -27,9 +27,9 @@ _type: Article
 ## Koska Minä Tiedän.
 
 En tiedä mitä tulevaisuudessa tapahtuu. Tiedän kuitenkin, että tulevat palvelut ovat älykkäämpiä, ketterämpiä ja asiakaskeskeisempiä kuin koskaan aiemmin. Mukautuvuus ja maagiselta tuntuva asiakaskokemuksen helppous tulevat olemaan itsestäänselvyyksiä.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fdd1d21-ff79-43ae-84f6-7ef5eff113d4.jpg)
 
 Tulevaisuuden teknologiat. Mikä kuumottava aihe. Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8962190f9c99b46670362235722e4e34fc55e475.png)
 
 > Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista.
 

@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T12:13:16.693Z'
+datePublished: '2016-01-27T12:13:16.691Z'
 dateModified: '2016-01-27T12:07:00.085Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []

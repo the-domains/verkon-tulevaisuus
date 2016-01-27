@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T11:50:08.351Z'
-dateModified: '2016-01-27T11:50:03.830Z'
+datePublished: '2016-01-27T11:52:05.764Z'
+dateModified: '2016-01-27T11:52:02.192Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Totuus Verkkokaupan Tulevaisuudesta.

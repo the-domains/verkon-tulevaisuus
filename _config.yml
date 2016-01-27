@@ -1,7 +1,7 @@
 name: Verkon tulevaisuus
 favicon: null
-layout_spectrum: 0.46656
-typography_spectrum: 1
+layout_spectrum: 0.39095
+typography_spectrum: 0.70793
 title: Ajatuksia verkon ja kaupan tulevaisuudesta
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3c3c3c'
     - '#da6900'
     - '#000000'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []

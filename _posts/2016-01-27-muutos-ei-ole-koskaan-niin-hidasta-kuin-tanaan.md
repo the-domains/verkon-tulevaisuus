@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T10:25:09.287Z'
-dateModified: '2016-01-27T10:24:49.040Z'
-title: Muutos ei ole koskaan niin hidasta kuin tänään
+datePublished: '2016-01-27T10:41:46.132Z'
+dateModified: '2016-01-27T10:41:35.987Z'
+title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
 published: true
@@ -22,6 +22,10 @@ url: muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan/index.html
 _type: Article
 
 ---
+# Totuus Verkkokaupan Tulevaisuudesta.
+
+## Koska Minä Tiedän.
+
 En tiedä mitä tulevaisuudessa tapahtuu. Tiedän kuitenkin, että tulevat palvelut ovat älykkäämpiä, ketterämpiä ja asiakaskeskeisempiä kuin koskaan aiemmin. Mukautuvuus ja maagiselta tuntuva asiakaskokemuksen helppous tulevat olemaan itsestäänselvyyksiä.
 
 Tulevaisuuden teknologiat. Mikä kuumottava aihe. Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin.
@@ -32,7 +36,7 @@ Tulevaisuuden teknologiat. Mikä kuumottava aihe. Tuskin kukaan väittää oikea
 Viime vuodet on puhuttu big datasta, koneoppimisesta, reaaliaikaisesta personoinnista, automatisoidusta multivarianttitestauksesta, kaiken verkkoon siirtymisestä, asiakastiedon arvosta, uudesta öljystä ja asiakasanalytiikasta. Yksi kuumimmista puheenaiheista on ollut digitaalisen ja fyysisen asioinnin saumattomasti yhdistävä asiakaskokemus. Samalla esiin on putkahdellut keinoälyyn perustuvia palvelualustoja, kuten The Grid ja yhä älykkäämpiä palveluita ja toistaan huikeampia kuluttajatuotteita - tai ainakin lupauksia niistä.
 
 Sain äskettäin lahjaksi Spheron BB-8 -droidin, jonka mainokset ovat kuvanneet älykkääksi, ympäristöä havainnoivaksi ja siihen mukautuvaksi lelun ja korkeamman tason viihdelaitteen välimuodoksi. Oikeasti droidilla on kaksi perustavaa laatua olevaa ongelmaa. Suorituskyky ja akkukesto. Lunastaakseen lupauksensa (tai ainakin oman unelmani) Spheron pitäisi pystyä pysymään valmiustilassa ja valmiina reagoimaan esim. kotiin tulevaan lapseen vähintään 8 tunnin ajan, havaita ja reagoida tapahtumiin, tietää missä se on ja oppia navigoimaan huoneistossa autonomisesti ja älykkäästi. Tämä on selvästi ollut myös alkuperäinen idea. No, ihan perille asti ei päästy vaan droidi sekoilee ympäriinsä maksimissaan tunnin kolmen tunnin latauksella, havaitsee törmäykset ja reagoi niihin enemmän tai vähemmän koomisesti eikä osaa paikantaa itseään muuhun kuin lähtöpaikkaansa nähden - ja siihenkin hyvin karkeasti. Ehkä suurin ihmetyksen aihe on, että Sphero ei kytkeydy wifi -verkkoon. Se on oikeastaan vain hyperhieno toteutus 80 -luvulta tutusta törmäyksiin reagoivasta pattereilla toimivasta leluautosta.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e614aa3-cc35-43b5-ace0-a75805d7a7f1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ed7b0bb927bd7ecb646d8296d35c6d8f460185f.png)
 
 Spheron suorituskykyongelma tulee ratkeamaan. Aitoon ja tarkkaan sisätilapaikannukseen tarvittavan älyn koko, virrankulutus ja hinta tulee putoamaan (kalliiden) lelujen saataville lähitulevaisuudessa. Sphero saa myös riittävät anturit, joilla se osaa tunnistaa isäntäväkensä. Pallo kytkeytyy verkkoon ja saa tarvittavan numeronmurskauskapasiteetin pilvestä. Fyysisen liikkumisen vaatima teho on todennäköisesti se isompi ongelma, tosin paikannus ja langaton lataaminen voivat minimoida senkin. Viiden vuoden kuluttua tämä hassu (ja oikeasti nykyiselläänkin huikea) pikku pallo on seitsemänvuotiasta koululaista vastassa ovella yhtä iloisesti kuin koira.
 

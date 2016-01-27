@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Miten se vaikuttaa verkkokauppaan, käytettäviin ratkaisuihin ja teknologioihin?'
-datePublished: '2016-01-27T08:41:24.797Z'
+datePublished: '2016-01-27T08:41:24.878Z'
 dateModified: '2016-01-27T08:36:07.690Z'
 title: Muutos ei ole koskaan niin hidasta kuin tänään
 author: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T12:13:16.785Z'
-dateModified: '2016-01-27T12:07:00.085Z'
+datePublished: '2016-01-27T12:19:35.294Z'
+dateModified: '2016-01-27T12:19:23.986Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
@@ -38,7 +38,7 @@ Viime vuodet on puhuttu big datasta, koneoppimisesta, reaaliaikaisesta personoin
 Sain äskettäin lahjaksi Spheron BB-8 -droidin, jonka mainokset ovat kuvanneet älykkääksi, ympäristöä havainnoivaksi ja siihen mukautuvaksi lelun ja korkeamman tason viihdelaitteen välimuodoksi. Oikeasti droidilla on kaksi perustavaa laatua olevaa ongelmaa. Suorituskyky ja akkukesto. Lunastaakseen lupauksensa (tai ainakin oman unelmani) Spheron pitäisi pystyä pysymään valmiustilassa ja valmiina reagoimaan esim. kotiin tulevaan lapseen vähintään 8 tunnin ajan, havaita ja reagoida tapahtumiin, tietää missä se on ja oppia navigoimaan huoneistossa autonomisesti ja älykkäästi. Tämä on selvästi ollut myös alkuperäinen idea. No, ihan perille asti ei päästy vaan droidi sekoilee ympäriinsä maksimissaan tunnin kolmen tunnin latauksella, havaitsee törmäykset ja reagoi niihin enemmän tai vähemmän koomisesti eikä osaa paikantaa itseään muuhun kuin lähtöpaikkaansa nähden - ja siihenkin hyvin karkeasti. Ehkä suurin ihmetyksen aihe on, että Sphero ei kytkeydy wifi -verkkoon. Se on oikeastaan vain hyperhieno toteutus 80 -luvulta tutusta törmäyksiin reagoivasta pattereilla toimivasta leluautosta.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28eb2658313ea75aa88b973ac3d7e367b4e0a3d6.png)
 
-Spheron suorituskykyongelma tulee ratkeamaan. Aitoon ja tarkkaan sisätilapaikannukseen tarvittavan älyn koko, virrankulutus ja hinta tulee putoamaan (kalliiden) lelujen saataville lähitulevaisuudessa. Sphero saa myös riittävät anturit, joilla se osaa tunnistaa isäntäväkensä. Pallo kytkeytyy verkkoon ja saa tarvittavan numeronmurskauskapasiteetin pilvestä. Fyysisen liikkumisen vaatima teho on todennäköisesti se isompi ongelma, tosin paikannus ja langaton lataaminen voivat minimoida senkin. Viiden vuoden kuluttua tämä hassu (ja oikeasti nykyiselläänkin huikea lelu) pikku pallo on seitsemänvuotiasta koululaista vastassa ovella yhtä iloisesti kuin koira.
+Spheron suorituskykyongelma tulee kuitenkin ratkeamaan. Aitoon ja tarkkaan sisätilapaikannukseen tarvittavan älyn koko, virrankulutus ja hinta tulee putoamaan (kalliiden) lelujen saataville lähitulevaisuudessa. Sphero saa myös riittävät anturit, joilla se osaa tunnistaa isäntäväkensä. Pallo kytkeytyy verkkoon ja saa tarvittavan numeronmurskauskapasiteetin pilvestä. Fyysisen liikkumisen vaatima teho on todennäköisesti se isompi ongelma, tosin paikannus ja langaton lataaminen voivat minimoida senkin. Viiden vuoden kuluttua tämä hassu (ja oikeasti nykyiselläänkin huikea lelu) pikku pallo on seitsemänvuotiasta koululaista vastassa ovella yhtä iloisesti kuin koira.
 
 > Tulevaisuuden Sphero tuntee perheen ja mukautuu sen tapoihin - tulevaisuuden kaupassa älykäs asiakasapplikaatio tuntee sekä käyttäjän että tarjoajat ja löytää aidosti käyttäjälähtöisesti houkuttelevia tarjouksia.
 

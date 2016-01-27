@@ -23,7 +23,7 @@ color:
     - '#da6900'
     - '#000000'
   brandStrength: 0
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T09:44:05.561Z'
-dateModified: '2016-01-29T09:43:58.308Z'
+datePublished: '2016-02-10T07:45:09.780Z'
+dateModified: '2016-02-02T13:33:42.336Z'
 title: Totuus Verkkokaupan Tulevaisuudesta.
 author: []
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 # Totuus Verkkokaupan Tulevaisuudesta.
-
-## Koska Minä Tiedän.
 
 En tiedä mitä tulevaisuudessa tapahtuu. Tiedän kuitenkin, että tulevat palvelut ovat älykkäämpiä, ketterämpiä ja asiakaskeskeisempiä kuin koskaan aiemmin. Mukautuvuus ja maagiselta tuntuva asiakaskokemuksen helppous tulevat olemaan itsestäänselvyyksiä.
 

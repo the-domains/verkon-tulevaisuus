@@ -1,7 +1,7 @@
 name: Verkon tulevaisuus
 favicon: null
-layout_spectrum: 0.50083
-typography_spectrum: 0.20476
+layout_spectrum: 1
+typography_spectrum: 0.90651
 title: 'Ajatuksia verkosta, kaupasta, tulevaisuudesta ja asiakaskokemuksesta'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#30716d'
-    - '#3c3c3c'
-    - '#da6900'
-    - '#000000'
-  brandStrength: 0.1875
+    - '#2a1f19'
+    - '#587267'
+    - '#a4947b'
+    - '#c2bb9e'
+    - '#e1dac6'
+  brandStrength: 0
   lightness: 0.8125
   saturation: 1
   rhythmicContrast: 0.25

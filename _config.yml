@@ -28,6 +28,9 @@ navigation:
   - name: Kirjoittajasta
     id: 1613f99a-a785-45e8-b38e-a9b193f5e599
     type: content
+  - name: Totuus Verkkokaupan Tulevaisuudesta.
+    id: c7145435-bb14-4ac1-b57b-bda97a1e4924
+    type: content
 favicon: null
 title: 'Ajatuksia verkosta, kaupasta, tulevaisuudesta ja asiakaskokemuksesta'
 purpose: []

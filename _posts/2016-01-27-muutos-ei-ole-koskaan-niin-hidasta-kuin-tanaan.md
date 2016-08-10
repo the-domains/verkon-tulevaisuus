@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-10T07:45:09.780Z'
-dateModified: '2016-02-02T13:33:42.336Z'
-title: Totuus Verkkokaupan Tulevaisuudesta.
-author: []
+description: "Tulevaisuuden teknologiat. Mikä kuumottava aihe.\_Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin. Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista."
+datePublished: '2016-08-10T05:43:59.530Z'
+dateModified: '2016-08-10T05:43:59.036Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-27-muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: true
 url: muutos-ei-ole-koskaan-niin-hidasta-kuin-tanaan/index.html
 _type: Article
 
